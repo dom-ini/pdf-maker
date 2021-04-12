@@ -1,0 +1,11 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="icon.svg">img/icon.svg</file>
+    <file alias="goUp.svg">img/goUp.svg</file>
+    <file alias="goToTop.svg">img/goToTop.svg</file>
+    <file alias="goDown.svg">img/goDown.svg</file>
+    <file alias="goToBottom.svg">img/goToBottom.svg</file>
+    <file alias="deleteItem.svg">img/deleteItem.svg</file>
+    <file alias="addItem.svg">img/addItem.svg</file>
+</qresource>
+</RCC>
